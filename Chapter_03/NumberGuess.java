@@ -28,3 +28,7 @@ public class GuessMyNumber
     }
 
 }
+
+
+int endOfSentence = bookText.indexOf(".")
+return bookText.substring(0, +1);
